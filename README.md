@@ -23,7 +23,7 @@ Fazer o build da imagem:
 
 Para entrar na imagem para desenvolvimento, executar o comando abaixo:
 
-    docker compose run --rm goapp
+    docker compose run --rm labcloudrun
 
 
 ## Ambiente de produção com uso do Docker
